@@ -1,0 +1,111 @@
+2026-03-03 10:00:30,418 - === START MODE: TEST ===
+2026-03-03 10:00:30,418 - Checking network...
+2026-03-03 10:00:34,370 - No network. Abort.
+2026-03-03 10:24:12,256 - === START MODE: TEST ===
+2026-03-03 10:24:12,257 - Attempt 1
+2026-03-03 10:24:12,288 - ADB not connected. Reconnecting...
+2026-03-03 10:24:12,288 - Reconnecting ADB...
+2026-03-03 10:24:17,378 - ADB reconnect failed.
+2026-03-03 10:24:17,379 - FAILED attempt
+2026-03-03 10:24:17,379 - Stop app
+2026-03-03 10:24:20,415 - Attempt 2
+2026-03-03 10:24:20,444 - ADB not connected. Reconnecting...
+2026-03-03 10:24:20,445 - Reconnecting ADB...
+2026-03-03 10:24:25,536 - ADB reconnect failed.
+2026-03-03 10:24:25,537 - FAILED attempt
+2026-03-03 10:24:25,537 - Stop app
+2026-03-03 10:24:28,573 - Attempt 3
+2026-03-03 10:24:28,601 - ADB not connected. Reconnecting...
+2026-03-03 10:24:28,602 - Reconnecting ADB...
+2026-03-03 10:24:33,692 - ADB reconnect failed.
+2026-03-03 10:24:33,693 - FAILED attempt
+2026-03-03 10:24:33,693 - Stop app
+2026-03-03 10:24:36,730 - ALL RETRIES FAILED
+2026-03-03 10:24:38,527 - === END ===
+2026-03-03 10:24:50,569 - === START MODE: TEST ===
+2026-03-03 10:24:50,569 - Attempt 1
+2026-03-03 10:24:50,601 - ADB not connected. Reconnecting...
+2026-03-03 10:24:50,601 - Reconnecting ADB...
+2026-03-03 10:24:55,690 - ADB reconnect failed.
+2026-03-03 10:24:55,690 - FAILED attempt
+2026-03-03 10:24:55,691 - Stop app
+2026-03-03 10:24:58,727 - Attempt 2
+2026-03-03 10:24:58,758 - ADB not connected. Reconnecting...
+2026-03-03 10:24:58,758 - Reconnecting ADB...
+2026-03-03 10:25:03,846 - ADB reconnect failed.
+2026-03-03 10:25:03,846 - FAILED attempt
+2026-03-03 10:25:03,847 - Stop app
+2026-03-03 10:25:06,885 - Attempt 3
+2026-03-03 10:25:06,916 - ADB not connected. Reconnecting...
+2026-03-03 10:25:06,917 - Reconnecting ADB...
+2026-03-03 10:25:12,016 - ADB reconnect failed.
+2026-03-03 10:25:12,017 - FAILED attempt
+2026-03-03 10:25:12,017 - Stop app
+2026-03-03 10:25:15,054 - ALL RETRIES FAILED
+2026-03-03 10:25:16,254 - === END ===
+2026-03-03 10:31:14,010 - === START MODE: TEST ===
+2026-03-03 10:31:14,011 - Attempt 1
+2026-03-03 10:31:14,094 - ADB not connected. Reconnecting...
+2026-03-03 10:31:14,094 - Reconnecting ADB...
+2026-03-03 10:31:24,448 - ADB reconnect failed.
+2026-03-03 10:31:24,448 - FAILED attempt
+2026-03-03 10:31:24,448 - Stop app
+2026-03-03 10:31:27,531 - Attempt 2
+2026-03-03 10:31:27,590 - ADB not connected. Reconnecting...
+2026-03-03 10:31:27,590 - Reconnecting ADB...
+2026-03-03 10:42:03,337 - === START MODE: TEST ===
+2026-03-03 10:42:03,338 - Attempt 1
+2026-03-03 10:42:03,399 - turn on screen and swipe up to unlock with PIN
+2026-03-03 10:42:03,448 - Turning on screen
+2026-03-03 10:42:14,646 - Start app
+2026-03-03 10:42:23,526 - Checking overlay popup...
+2026-03-03 10:42:26,015 - No overlay detected
+2026-03-03 10:42:26,016 - TEST mode: clicking Tạo đơn
+2026-03-03 10:42:26,016 - Waiting element: Tạo đơn
+2026-03-03 10:42:28,403 - Element found: Tạo đơn
+2026-03-03 10:42:28,403 - Tapping at (103, 732)
+2026-03-03 10:42:37,991 - Stop app
+2026-03-03 10:42:38,250 - Lock device
+2026-03-03 10:42:39,290 - SUCCESS
+2026-03-03 10:43:36,853 - === START MODE: CHECK_IN ===
+2026-03-03 10:43:36,854 - Attempt 1
+2026-03-03 10:43:36,917 - turn on screen and swipe up to unlock with PIN
+2026-03-03 10:43:36,966 - Turning on screen
+2026-03-03 10:43:47,225 - Start app
+2026-03-03 10:43:55,995 - Checking overlay popup...
+2026-03-03 10:43:58,416 - No overlay detected
+2026-03-03 10:43:58,417 - Waiting element: CHECK IN
+2026-03-03 10:44:00,817 - Element found: CHECK IN
+2026-03-03 10:44:00,817 - Tapping at (359, 421)
+2026-03-03 10:44:19,591 - Stop app
+2026-03-03 10:44:19,805 - Lock device
+2026-03-03 10:44:20,825 - SUCCESS
+2026-03-03 10:44:26,855 - === START MODE: CHECK_IN ===
+2026-03-03 10:44:26,855 - Attempt 1
+2026-03-03 10:44:26,917 - turn on screen and swipe up to unlock with PIN
+2026-03-03 10:44:26,966 - Turning on screen
+2026-03-03 10:44:37,193 - Start app
+2026-03-03 10:44:45,960 - Checking overlay popup...
+2026-03-03 10:44:48,401 - No overlay detected
+2026-03-03 10:44:48,402 - Waiting element: CHECK IN
+2026-03-03 10:44:50,817 - Element found: CHECK IN
+2026-03-03 10:44:50,817 - Tapping at (185, 356)
+2026-03-03 10:45:57,122 - Stop app
+2026-03-03 10:45:57,340 - Lock device
+2026-03-03 10:45:58,409 - SUCCESS
+2026-03-03 10:59:16,862 - === START MODE: TEST ===
+2026-03-03 10:59:16,863 - Attempt 1
+2026-03-03 10:59:16,925 - turn on screen and swipe up to unlock with PIN
+2026-03-03 10:59:16,976 - Turning on screen
+2026-03-03 10:59:27,240 - Start app
+2026-03-03 10:59:35,963 - Checking overlay popup...
+2026-03-03 10:59:38,337 - No overlay detected
+2026-03-03 10:59:38,337 - TEST mode: clicking Tạo đơn
+2026-03-03 10:59:38,338 - Waiting element: Tạo đơn
+2026-03-03 10:59:40,729 - Element found: Tạo đơn
+2026-03-03 10:59:40,730 - Tapping at (103, 699)
+2026-03-03 10:59:46,807 - Checking overlay popup...
+2026-03-03 10:59:49,149 - No overlay detected
+2026-03-03 10:59:53,759 - Stop app
+2026-03-03 10:59:54,011 - Lock device
+2026-03-03 10:59:55,061 - SUCCESS

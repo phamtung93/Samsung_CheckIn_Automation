@@ -179,7 +179,6 @@ def unlock_with_pin(pin):
     for digit in pin:
         keycode = 7 + int(digit)  # KeyEvent for digits starts at 7
         press(keycode)
-        time.sleep(0.2)
 
     press(66)  # Press Enter
 
@@ -339,6 +338,11 @@ def main_flow(mode):
         return False
 
     time.sleep(5)
+    
+    close_overlay_if_any()
+    
+    time.sleep(1)
+    
     screenshot()
     send_telegram_photo()
 
@@ -356,10 +360,6 @@ def main():
     mode = sys.argv[1].upper()
 
     log("=== START MODE: " + mode + " ===")
-
-    if not check_network():
-        log("No network. Abort.")
-        return
 
     for attempt in range(RETRY_MAX):
         log("Attempt " + str(attempt + 1))
