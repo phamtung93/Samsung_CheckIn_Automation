@@ -109,3 +109,835 @@
 2026-03-03 10:59:53,759 - Stop app
 2026-03-03 10:59:54,011 - Lock device
 2026-03-03 10:59:55,061 - SUCCESS
+2026-03-03 11:03:20,189 - === START MODE: TEST ===
+2026-03-03 11:03:20,189 - Attempt 1
+2026-03-03 11:03:20,269 - turn on screen and swipe up to unlock with PIN
+2026-03-03 11:03:20,316 - Turning on screen
+2026-03-03 11:03:29,698 - Start app
+2026-03-03 11:03:38,435 - Checking overlay popup...
+2026-03-03 11:03:40,884 - No overlay detected
+2026-03-03 11:03:40,884 - TEST mode: clicking Tạo đơn
+2026-03-03 11:03:40,885 - Waiting element: Tạo đơn
+2026-03-03 11:03:43,316 - Element found: Tạo đơn
+2026-03-03 11:03:43,317 - Tapping at (103, 699)
+2026-03-03 11:03:49,358 - Checking overlay popup...
+2026-03-03 11:03:51,710 - No overlay detected
+2026-03-03 11:03:55,448 - Stop app
+2026-03-03 11:03:55,705 - Lock device
+2026-03-03 11:03:56,761 - SUCCESS
+2026-03-03 11:09:19,002 - === START MODE: TEST ===
+2026-03-03 11:09:19,002 - Attempt 1
+2026-03-03 11:09:19,060 - turn on screen and swipe up to unlock with PIN
+2026-03-03 11:09:19,102 - Turning on screen
+2026-03-03 11:09:28,544 - Start app
+2026-03-03 11:09:37,373 - Checking overlay popup...
+2026-03-03 11:09:39,783 - No overlay detected
+2026-03-03 11:09:39,784 - TEST mode: clicking Tạo đơn
+2026-03-03 11:09:39,784 - Waiting element: Tạo đơn
+2026-03-03 11:09:42,194 - Element found: Tạo đơn
+2026-03-03 11:09:42,194 - Tapping at (103, 699)
+2026-03-03 11:09:48,254 - Checking overlay popup...
+2026-03-03 11:09:50,622 - No overlay detected
+2026-03-03 11:09:54,256 - Stop app
+2026-03-03 11:09:54,515 - Lock device
+2026-03-03 11:09:55,536 - SUCCESS
+2026-03-03 11:12:28,952 - === START MODE: TEST ===
+2026-03-03 11:12:28,953 - Attempt 1
+2026-03-03 11:12:29,012 - turn on screen and swipe up to unlock with PIN
+2026-03-03 11:12:29,052 - Turning on screen
+2026-03-03 11:12:38,568 - Start app
+2026-03-03 11:12:47,323 - Checking overlay popup...
+2026-03-03 11:12:49,734 - No overlay detected
+2026-03-03 11:12:49,735 - TEST mode: clicking Tạo đơn
+2026-03-03 11:12:49,735 - Waiting element: Tạo đơn
+2026-03-03 11:12:52,125 - Element found: Tạo đơn
+2026-03-03 11:12:52,125 - Tapping at (103, 699)
+2026-03-03 11:12:58,179 - Checking overlay popup...
+2026-03-03 11:13:00,534 - No overlay detected
+2026-03-03 11:13:03,832 - Stop app
+2026-03-03 11:13:04,074 - Lock device
+2026-03-03 11:13:05,133 - SUCCESS
+2026-03-03 11:15:39,518 - === START MODE: TEST ===
+2026-03-03 11:15:39,518 - Attempt 1
+2026-03-03 11:15:39,578 - turn on screen and swipe up to unlock with PIN
+2026-03-03 11:15:39,622 - Turning on screen
+2026-03-03 11:15:49,072 - Start app
+2026-03-03 11:15:57,762 - Checking overlay popup...
+2026-03-03 11:16:00,155 - No overlay detected
+2026-03-03 11:16:00,155 - TEST mode: clicking Tạo đơn
+2026-03-03 11:16:00,156 - Waiting element: Tạo đơn
+2026-03-03 11:16:02,548 - Element found: Tạo đơn
+2026-03-03 11:16:02,548 - Tapping at (103, 699)
+2026-03-03 11:16:08,591 - Checking overlay popup...
+2026-03-03 11:16:10,918 - No overlay detected
+2026-03-03 11:16:14,187 - Stop app
+2026-03-03 11:16:14,442 - Lock device
+2026-03-03 11:16:15,465 - SUCCESS
+2026-03-03 11:22:17,150 - === START MODE: CHECK_IN ===
+2026-03-03 11:22:17,156 - Attempt 1
+2026-03-03 11:22:17,216 - turn on screen and swipe up to unlock with PIN
+2026-03-03 11:22:17,259 - Turning on screen
+2026-03-03 11:22:26,736 - Start app
+2026-03-03 11:22:35,466 - Checking overlay popup...
+2026-03-03 11:22:37,876 - No overlay detected
+2026-03-03 11:22:37,876 - Waiting element: CHECK IN
+2026-03-03 11:22:40,291 - Element found: CHECK IN
+2026-03-03 11:22:40,291 - Tapping at (185, 356)
+2026-03-03 11:22:46,348 - Checking overlay popup...
+2026-03-03 11:22:48,726 - No overlay detected
+2026-03-03 11:22:56,508 - Stop app
+2026-03-03 11:22:56,743 - Lock device
+2026-03-03 11:22:57,767 - SUCCESS
+2026-03-03 12:06:04,963 - === START MODE: CHECK_IN ===
+2026-03-03 12:06:04,964 - Attempt 1
+2026-03-03 12:06:05,029 - turn on screen and swipe up to unlock with PIN
+2026-03-03 12:06:05,075 - Turning on screen
+2026-03-03 12:06:14,814 - Start app
+2026-03-03 12:06:23,740 - Checking overlay popup...
+2026-03-03 12:06:26,173 - No overlay detected
+2026-03-03 12:06:26,173 - Waiting element: CHECK IN
+2026-03-03 12:06:28,549 - Element found: CHECK IN
+2026-03-03 12:06:28,549 - Tapping at (185, 356)
+2026-03-03 12:06:34,589 - Checking overlay popup...
+2026-03-03 12:06:36,967 - No overlay detected
+2026-03-03 12:06:44,424 - Stop app
+2026-03-03 12:06:44,699 - Lock device
+2026-03-03 12:06:45,785 - SUCCESS
+2026-03-03 12:10:53,136 - === START MODE: CHECK_IN ===
+2026-03-03 12:10:53,137 - Attempt 1
+2026-03-03 12:10:53,267 - turn on screen and swipe up to unlock with PIN
+2026-03-03 12:10:53,318 - Turning on screen
+2026-03-03 12:11:02,814 - Start app
+2026-03-03 12:11:11,705 - Checking overlay popup...
+2026-03-03 12:11:14,281 - No overlay detected
+2026-03-03 12:11:14,281 - Waiting element: CHECK IN
+2026-03-03 12:11:16,699 - Element found: CHECK IN
+2026-03-03 12:11:16,699 - Tapping at (185, 356)
+2026-03-03 12:11:22,764 - Checking overlay popup...
+2026-03-03 12:11:25,160 - No overlay detected
+2026-03-03 12:11:32,751 - Stop app
+2026-03-03 12:11:33,043 - Lock device
+2026-03-03 12:11:34,177 - SUCCESS
+2026-03-03 12:13:57,560 - === START MODE: CHECK_IN ===
+2026-03-03 12:13:57,561 - Attempt 1
+2026-03-03 12:13:57,630 - turn on screen and swipe up to unlock with PIN
+2026-03-03 12:13:57,677 - Turning on screen
+2026-03-03 12:14:07,071 - Start app
+2026-03-03 12:14:15,875 - Checking overlay popup...
+2026-03-03 12:14:18,287 - No overlay detected
+2026-03-03 12:14:18,287 - Waiting element: CHECK IN
+2026-03-03 12:14:20,695 - Element found: CHECK IN
+2026-03-03 12:14:20,696 - Tapping at (185, 356)
+2026-03-03 12:14:26,766 - Checking overlay popup...
+2026-03-03 12:14:29,143 - No overlay detected
+2026-03-03 12:14:36,330 - Stop app
+2026-03-03 12:14:36,549 - Lock device
+2026-03-03 12:14:37,619 - SUCCESS
+2026-03-03 12:17:27,861 - === START MODE: CHECK_IN ===
+2026-03-03 12:17:27,861 - Attempt 1
+2026-03-03 12:17:27,919 - turn on screen and swipe up to unlock with PIN
+2026-03-03 12:17:27,969 - Turning on screen
+2026-03-03 12:17:37,362 - Start app
+2026-03-03 12:17:46,201 - Checking overlay popup...
+2026-03-03 12:17:48,610 - No overlay detected
+2026-03-03 12:17:48,610 - Waiting element: CHECK IN
+2026-03-03 12:17:51,001 - Element found: CHECK IN
+2026-03-03 12:17:51,002 - Tapping at (185, 356)
+2026-03-03 12:17:57,074 - Checking overlay popup...
+2026-03-03 12:17:59,466 - No overlay detected
+2026-03-03 12:18:06,767 - Stop app
+2026-03-03 12:18:07,018 - Lock device
+2026-03-03 12:18:08,096 - SUCCESS
+2026-03-03 12:19:28,370 - === START MODE: CHECK_IN ===
+2026-03-03 12:19:28,370 - Attempt 1
+2026-03-03 12:19:28,434 - turn on screen and swipe up to unlock with PIN
+2026-03-03 12:19:28,477 - Turning on screen
+2026-03-03 12:19:37,801 - Start app
+2026-03-03 12:19:46,656 - Checking overlay popup...
+2026-03-03 12:19:49,045 - No overlay detected
+2026-03-03 12:19:49,046 - Waiting element: CHECK IN
+2026-03-03 12:19:51,469 - Element found: CHECK IN
+2026-03-03 12:19:51,469 - Tapping at (185, 356)
+2026-03-03 12:19:57,520 - Checking overlay popup...
+2026-03-03 12:19:59,916 - No overlay detected
+2026-03-03 12:20:07,232 - Stop app
+2026-03-03 12:20:07,484 - Lock device
+2026-03-03 12:20:08,582 - SUCCESS
+2026-03-03 13:42:10,354 - === START MODE: CHECK_IN ===
+2026-03-03 13:42:10,355 - Attempt 1
+2026-03-03 13:42:10,431 - turn on screen and swipe up to unlock with PIN
+2026-03-03 13:42:10,483 - Turning on screen
+2026-03-03 13:42:21,128 - Start app
+2026-03-03 13:42:29,944 - Checking overlay popup...
+2026-03-03 13:42:32,372 - No overlay detected
+2026-03-03 13:42:32,373 - Waiting element: CHECK IN
+2026-03-03 13:42:34,754 - Element found: CHECK IN
+2026-03-03 13:42:34,755 - Tapping at (185, 356)
+2026-03-03 13:42:40,834 - Checking overlay popup...
+2026-03-03 13:42:43,225 - No overlay detected
+2026-03-03 13:42:52,368 - Stop app
+2026-03-03 13:42:52,618 - Lock device
+2026-03-03 13:42:53,687 - SUCCESS
+2026-03-03 17:05:21,565 - === START MODE: CHECK_IN ===
+2026-03-03 17:05:21,565 - Attempt 1
+2026-03-03 17:05:21,658 - turn on screen and swipe up to unlock with PIN
+2026-03-03 17:05:21,702 - Turning on screen
+2026-03-03 17:05:32,532 - Start app
+2026-03-03 17:05:41,374 - Checking overlay popup...
+2026-03-03 17:05:43,830 - No overlay detected
+2026-03-03 17:05:43,830 - Waiting element: CHECK IN
+2026-03-03 17:05:46,258 - Element found: CHECK IN
+2026-03-03 17:05:46,259 - Tapping at (185, 356)
+2026-03-03 17:05:52,321 - Checking overlay popup...
+2026-03-03 17:05:54,705 - No overlay detected
+2026-03-03 17:06:02,392 - Stop app
+2026-03-03 17:06:02,626 - Lock device
+2026-03-03 17:06:03,689 - SUCCESS
+2026-03-03 17:35:49,397 - === START MODE: CHECK_OUT ===
+2026-03-03 17:35:49,397 - Attempt 1
+2026-03-03 17:35:49,461 - turn on screen and swipe up to unlock with PIN
+2026-03-03 17:35:49,501 - Turning on screen
+2026-03-03 17:35:58,915 - Start app
+2026-03-03 17:36:07,636 - Checking overlay popup...
+2026-03-03 17:36:10,029 - No overlay detected
+2026-03-03 17:36:10,030 - Waiting element: CHECK OUT
+2026-03-03 17:36:12,443 - Element found: CHECK OUT
+2026-03-03 17:36:12,443 - Tapping at (523, 383)
+2026-03-03 17:36:16,495 - Waiting element: Xác Nhận
+2026-03-03 17:36:33,834 - Element timeout: Xác Nhận
+2026-03-03 17:36:33,834 - Confirm popup not found
+2026-03-03 17:36:33,835 - FAILED attempt
+2026-03-03 17:36:33,835 - Stop app
+2026-03-03 17:36:37,083 - Attempt 2
+2026-03-03 17:36:37,136 - turn on screen and swipe up to unlock with PIN
+2026-03-03 17:36:37,176 - Turning on screen
+2026-03-03 17:36:46,445 - Start app
+2026-03-03 17:36:55,169 - Checking overlay popup...
+2026-03-03 17:36:57,576 - No overlay detected
+2026-03-03 17:36:57,576 - Waiting element: CHECK OUT
+2026-03-03 17:37:28,135 - Element timeout: CHECK OUT
+2026-03-03 17:37:28,135 - FAILED attempt
+2026-03-03 17:37:28,136 - Stop app
+2026-03-03 17:37:31,366 - Attempt 3
+2026-03-03 17:37:31,420 - turn on screen and swipe up to unlock with PIN
+2026-03-03 17:37:31,459 - Turning on screen
+2026-03-03 17:37:40,829 - Start app
+2026-03-03 17:37:49,538 - Checking overlay popup...
+2026-03-03 17:37:51,934 - No overlay detected
+2026-03-03 17:37:51,935 - Waiting element: CHECK OUT
+2026-03-03 17:37:54,335 - Element found: CHECK OUT
+2026-03-03 17:37:54,335 - Tapping at (523, 383)
+2026-03-03 17:37:58,404 - Waiting element: Xác Nhận
+2026-03-03 17:43:52,965 - === START MODE: CHECK_OUT ===
+2026-03-03 17:43:52,965 - Attempt 1
+2026-03-03 17:43:53,034 - turn on screen and swipe up to unlock with PIN
+2026-03-03 17:43:53,083 - Turning on screen
+2026-03-03 17:44:02,392 - App is running, stopping first
+2026-03-03 17:44:02,392 - Stop app
+2026-03-03 17:44:02,643 - Start app
+2026-03-03 17:44:06,731 - === START MODE: CHECK_OUT ===
+2026-03-03 17:44:06,732 - Attempt 1
+2026-03-03 17:44:06,791 - turn on screen and swipe up to unlock with PIN
+2026-03-03 17:44:06,831 - Turning on screen
+2026-03-03 17:44:16,206 - App is running, stopping first
+2026-03-03 17:44:16,207 - Stop app
+2026-03-03 17:44:16,434 - Start app
+2026-03-03 17:44:25,128 - Checking overlay popup...
+2026-03-03 17:44:27,559 - No overlay detected
+2026-03-03 17:44:27,559 - Waiting element: CHECK OUT
+2026-03-03 17:44:29,956 - Element found: CHECK OUT
+2026-03-03 17:44:29,956 - Tapping at (523, 383)
+2026-03-03 17:44:34,030 - Waiting element: Đồng ý
+2026-03-03 17:44:36,358 - Element found: Đồng ý
+2026-03-03 17:44:36,359 - Tapping at (489, 943)
+2026-03-03 17:44:42,387 - Checking overlay popup...
+2026-03-03 17:44:44,736 - No overlay detected
+2026-03-03 17:44:47,007 - Stop app
+2026-03-04 07:47:09,600 - === START MODE: CHECK_IN ===
+2026-03-04 07:47:09,600 - Attempt 1
+2026-03-04 07:47:09,663 - turn on screen and swipe up to unlock with PIN
+2026-03-04 07:47:09,705 - Turning on screen
+2026-03-04 07:47:20,401 - Start app
+2026-03-04 07:47:29,409 - Checking overlay popup...
+2026-03-04 07:47:31,776 - No overlay detected
+2026-03-04 07:47:31,776 - Waiting element: CHECK IN
+2026-03-04 07:47:34,181 - Element found: CHECK IN
+2026-03-04 07:47:34,181 - Tapping at (359, 421)
+2026-03-04 07:47:40,206 - Checking overlay popup...
+2026-03-04 07:47:42,524 - Overlay found. Closing...
+2026-03-04 07:47:42,524 - Tapping at (677, 118)
+2026-03-04 07:47:54,232 - Stop app
+2026-03-04 07:47:54,482 - Lock device
+2026-03-04 07:47:55,506 - SUCCESS
+2026-03-04 17:35:55,542 - === START MODE: CHECK_OUT ===
+2026-03-04 17:35:55,543 - Attempt 1
+2026-03-04 17:35:55,643 - turn on screen and swipe up to unlock with PIN
+2026-03-04 17:35:55,688 - Turning on screen
+2026-03-04 17:36:06,295 - Start app
+2026-03-04 17:36:15,302 - Checking overlay popup...
+2026-03-04 17:36:18,477 - No overlay detected
+2026-03-04 17:36:18,477 - Waiting element: CHECK OUT
+2026-03-04 17:36:20,801 - Element found: CHECK OUT
+2026-03-04 17:36:20,801 - Tapping at (523, 383)
+2026-03-04 17:36:24,839 - Waiting element: Đồng ý
+2026-03-04 17:36:27,175 - Element found: Đồng ý
+2026-03-04 17:36:27,175 - Tapping at (489, 943)
+2026-03-04 17:36:31,225 - Tapping at (635, 201)
+2026-03-04 17:36:37,277 - Checking overlay popup...
+2026-03-04 17:36:39,668 - No overlay detected
+2026-03-04 17:36:46,901 - Stop app
+2026-03-04 17:36:47,156 - Lock device
+2026-03-04 17:36:48,205 - SUCCESS
+2026-03-05 07:47:11,733 - === START MODE: CHECK_IN ===
+2026-03-05 07:47:11,734 - Attempt 1
+2026-03-05 07:47:11,833 - turn on screen and swipe up to unlock with PIN
+2026-03-05 07:47:11,873 - Turning on screen
+2026-03-05 07:47:22,626 - Start app
+2026-03-05 07:47:31,829 - Checking overlay popup...
+2026-03-05 07:47:34,192 - No overlay detected
+2026-03-05 07:47:34,192 - Waiting element: CHECK IN
+2026-03-05 07:47:36,527 - Element found: CHECK IN
+2026-03-05 07:47:36,528 - Tapping at (359, 421)
+2026-03-05 07:47:42,561 - Checking overlay popup...
+2026-03-05 07:47:44,892 - Overlay found. Closing...
+2026-03-05 07:47:44,892 - Tapping at (677, 118)
+2026-03-05 07:47:53,755 - Stop app
+2026-03-05 07:47:54,018 - Lock device
+2026-03-05 07:47:55,070 - SUCCESS
+2026-03-05 17:35:46,504 - === START MODE: CHECK_OUT ===
+2026-03-05 17:35:46,505 - Attempt 1
+2026-03-05 17:35:46,607 - turn on screen and swipe up to unlock with PIN
+2026-03-05 17:35:46,650 - Turning on screen
+2026-03-05 17:35:57,301 - Start app
+2026-03-05 17:36:06,296 - Checking overlay popup...
+2026-03-05 17:36:08,682 - No overlay detected
+2026-03-05 17:36:08,682 - Waiting element: CHECK OUT
+2026-03-05 17:36:11,134 - Element found: CHECK OUT
+2026-03-05 17:36:11,134 - Tapping at (523, 383)
+2026-03-05 17:36:15,187 - Waiting element: Đồng ý
+2026-03-05 17:36:17,516 - Element found: Đồng ý
+2026-03-05 17:36:17,516 - Tapping at (489, 943)
+2026-03-05 17:36:21,538 - Tapping at (635, 201)
+2026-03-05 17:36:27,589 - Checking overlay popup...
+2026-03-05 17:36:30,006 - No overlay detected
+2026-03-05 17:36:37,892 - Stop app
+2026-03-05 17:36:38,179 - Lock device
+2026-03-05 17:36:39,233 - SUCCESS
+2026-03-06 07:46:58,752 - === START MODE: CHECK_IN ===
+2026-03-06 07:46:58,753 - Attempt 1
+2026-03-06 07:46:58,816 - turn on screen and swipe up to unlock with PIN
+2026-03-06 07:46:58,857 - Turning on screen
+2026-03-06 07:47:08,440 - Start app
+2026-03-06 07:47:17,375 - Checking overlay popup...
+2026-03-06 07:47:19,733 - No overlay detected
+2026-03-06 07:47:19,733 - Waiting element: CHECK IN
+2026-03-06 07:47:22,097 - Element found: CHECK IN
+2026-03-06 07:47:22,098 - Tapping at (359, 421)
+2026-03-06 07:47:28,148 - Checking overlay popup...
+2026-03-06 07:47:30,508 - No overlay detected
+2026-03-06 07:47:38,051 - Stop app
+2026-03-06 07:47:38,331 - Lock device
+2026-03-06 07:47:39,359 - SUCCESS
+2026-03-06 17:36:14,611 - === START MODE: CHECK_OUT ===
+2026-03-06 17:36:14,612 - Attempt 1
+2026-03-06 17:36:14,744 - turn on screen and swipe up to unlock with PIN
+2026-03-06 17:36:14,796 - Turning on screen
+2026-03-06 17:36:25,580 - Start app
+2026-03-06 17:36:34,660 - Checking overlay popup...
+2026-03-06 17:36:37,133 - No overlay detected
+2026-03-06 17:36:37,133 - Waiting element: CHECK OUT
+2026-03-06 17:36:39,518 - Element found: CHECK OUT
+2026-03-06 17:36:39,518 - Tapping at (523, 383)
+2026-03-06 17:36:43,553 - Waiting element: Đồng ý
+2026-03-06 17:36:45,876 - Element found: Đồng ý
+2026-03-06 17:36:45,876 - Tapping at (489, 943)
+2026-03-06 17:36:49,918 - Tapping at (635, 201)
+2026-03-06 17:36:55,957 - Checking overlay popup...
+2026-03-06 17:36:58,360 - No overlay detected
+2026-03-06 17:37:06,192 - Stop app
+2026-03-06 17:37:06,439 - Lock device
+2026-03-06 17:37:07,465 - SUCCESS
+2026-03-06 18:22:03,395 - === START MODE: CHECK_OUT ===
+2026-03-06 18:22:03,396 - Attempt 1
+2026-03-06 18:22:03,467 - turn on screen and swipe up to unlock with PIN
+2026-03-06 18:22:03,508 - Turning on screen
+2026-03-06 18:22:13,146 - Start app
+2026-03-06 18:22:21,898 - Checking overlay popup...
+2026-03-06 18:22:24,354 - No overlay detected
+2026-03-06 18:22:24,355 - Waiting element: CHECK OUT
+2026-03-06 18:22:26,794 - Element found: CHECK OUT
+2026-03-06 18:22:26,794 - Tapping at (511, 356)
+2026-03-06 18:22:30,875 - Waiting element: Đồng ý
+2026-03-06 18:22:48,669 - Element timeout: Đồng ý
+2026-03-06 18:22:48,669 - Confirm popup not found
+2026-03-06 18:22:48,670 - FAILED attempt
+2026-03-06 18:22:48,670 - Stop app
+2026-03-06 18:22:51,926 - Attempt 2
+2026-03-06 18:22:51,981 - turn on screen and swipe up to unlock with PIN
+2026-03-06 18:22:52,024 - Turning on screen
+2026-03-06 18:23:01,306 - Start app
+2026-03-06 18:23:10,022 - Checking overlay popup...
+2026-03-06 18:23:12,461 - No overlay detected
+2026-03-06 18:23:12,462 - Waiting element: CHECK OUT
+2026-03-06 18:23:43,031 - Element timeout: CHECK OUT
+2026-03-06 18:23:43,032 - FAILED attempt
+2026-03-06 18:23:43,032 - Stop app
+2026-03-06 18:23:46,231 - Attempt 3
+2026-03-06 18:23:46,288 - turn on screen and swipe up to unlock with PIN
+2026-03-06 18:23:46,328 - Turning on screen
+2026-03-06 18:23:55,703 - Start app
+2026-03-06 18:24:04,395 - Checking overlay popup...
+2026-03-06 18:24:06,874 - No overlay detected
+2026-03-06 18:24:06,875 - Waiting element: CHECK OUT
+2026-03-06 18:24:09,293 - Element found: CHECK OUT
+2026-03-06 18:24:09,295 - Tapping at (511, 356)
+2026-03-06 18:24:13,370 - Waiting element: Đồng ý
+2026-03-06 18:24:31,064 - Element timeout: Đồng ý
+2026-03-06 18:24:31,065 - Confirm popup not found
+2026-03-06 18:24:31,066 - FAILED attempt
+2026-03-06 18:24:31,067 - Stop app
+2026-03-06 18:24:34,320 - ALL RETRIES FAILED
+2026-03-06 18:24:35,452 - === END ===
+2026-03-07 12:10:01,440 - === START MODE: TEST ===
+2026-03-07 12:10:01,441 - Attempt 1
+2026-03-07 12:10:01,504 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:10:01,555 - Turning on screen
+2026-03-07 12:10:12,251 - Start app
+2026-03-07 12:10:21,243 - Checking overlay popup...
+2026-03-07 12:10:23,458 - === START MODE: TEST ===
+2026-03-07 12:10:23,459 - Attempt 1
+2026-03-07 12:10:23,525 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:10:23,576 - Turning on screen
+2026-03-07 12:10:44,307 - === START MODE: TEST ===
+2026-03-07 12:10:44,308 - Attempt 1
+2026-03-07 12:10:44,388 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:10:44,437 - Turning on screen
+2026-03-07 12:10:53,916 - App is running, stopping first
+2026-03-07 12:10:53,916 - Stop app
+2026-03-07 12:10:54,190 - Start app
+2026-03-07 12:10:57,507 - === START MODE: TEST ===
+2026-03-07 12:10:57,508 - Attempt 1
+2026-03-07 12:10:57,575 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:10:57,622 - Turning on screen
+2026-03-07 12:12:56,662 - === START MODE: TEST ===
+2026-03-07 12:12:56,662 - Attempt 1
+2026-03-07 12:12:56,724 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:13:04,577 - === START MODE: TEST ===
+2026-03-07 12:13:04,578 - Attempt 1
+2026-03-07 12:13:04,639 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:13:22,147 - === START MODE: TEST ===
+2026-03-07 12:13:22,147 - Attempt 1
+2026-03-07 12:13:22,213 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:13:22,263 - Turning on screen
+2026-03-07 12:13:31,682 - App is running, stopping first
+2026-03-07 12:13:31,682 - Stop app
+2026-03-07 12:13:31,904 - Start app
+2026-03-07 12:13:40,618 - Checking overlay popup...
+2026-03-07 12:13:43,085 - No overlay detected
+2026-03-07 12:13:43,085 - TEST mode: clicking Tạo đơn
+2026-03-07 12:13:43,085 - Waiting element: Tạo đơn
+2026-03-07 12:13:45,506 - Element found: Tạo đơn
+2026-03-07 12:13:45,506 - Tapping at (103, 772)
+2026-03-07 12:13:51,592 - Checking overlay popup...
+2026-03-07 12:13:53,994 - No overlay detected
+2026-03-07 12:13:58,226 - Stop app
+2026-03-07 12:13:58,476 - Lock device
+2026-03-07 12:13:59,519 - SUCCESS
+2026-03-07 12:14:11,017 - === START MODE: TEST ===
+2026-03-07 12:14:11,018 - Attempt 1
+2026-03-07 12:14:11,080 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:14:11,263 - Turning on screen
+2026-03-07 12:14:15,475 - === START MODE: TEST ===
+2026-03-07 12:14:15,476 - Attempt 1
+2026-03-07 12:14:15,540 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:14:15,719 - Screen is already on
+2026-03-07 12:14:24,322 - === START MODE: TEST ===
+2026-03-07 12:14:24,323 - Attempt 1
+2026-03-07 12:14:24,391 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:14:24,563 - Screen is already on
+2026-03-07 12:14:31,897 - Start app
+2026-03-07 12:14:41,401 - === START MODE: TEST ===
+2026-03-07 12:14:41,401 - Attempt 1
+2026-03-07 12:14:41,474 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:14:41,659 - Screen is already on
+2026-03-07 12:14:48,894 - App is running, stopping first
+2026-03-07 12:14:48,895 - Stop app
+2026-03-07 12:14:49,146 - Start app
+2026-03-07 12:14:57,851 - Checking overlay popup...
+2026-03-07 12:15:00,240 - No overlay detected
+2026-03-07 12:15:00,241 - TEST mode: clicking Tạo đơn
+2026-03-07 12:15:00,241 - Waiting element: Tạo đơn
+2026-03-07 12:15:02,651 - Element found: Tạo đơn
+2026-03-07 12:15:02,651 - Tapping at (103, 772)
+2026-03-07 12:15:08,720 - Checking overlay popup...
+2026-03-07 12:15:11,099 - No overlay detected
+2026-03-07 12:15:14,388 - Stop app
+2026-03-07 12:15:14,639 - Lock device
+2026-03-07 12:15:15,675 - SUCCESS
+2026-03-07 12:15:18,963 - === START MODE: TEST ===
+2026-03-07 12:15:18,963 - Attempt 1
+2026-03-07 12:15:19,027 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:15:19,164 - Turning on screen
+2026-03-07 12:15:28,473 - Start app
+2026-03-07 12:15:37,195 - Checking overlay popup...
+2026-03-07 12:15:39,616 - No overlay detected
+2026-03-07 12:15:39,617 - TEST mode: clicking Tạo đơn
+2026-03-07 12:15:39,617 - Waiting element: Tạo đơn
+2026-03-07 12:15:42,025 - Element found: Tạo đơn
+2026-03-07 12:15:42,026 - Tapping at (103, 772)
+2026-03-07 12:15:48,093 - Checking overlay popup...
+2026-03-07 12:15:50,468 - No overlay detected
+2026-03-07 12:15:53,826 - Stop app
+2026-03-07 12:15:54,072 - Lock device
+2026-03-07 12:15:55,109 - SUCCESS
+2026-03-07 12:16:52,492 - === START MODE: TEST ===
+2026-03-07 12:16:52,492 - Attempt 1
+2026-03-07 12:16:52,559 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:16:52,724 - Turning on screen
+2026-03-07 12:16:55,688 - === START MODE: TEST ===
+2026-03-07 12:16:55,689 - Attempt 1
+2026-03-07 12:16:55,886 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:16:56,057 - Screen is already on
+2026-03-07 12:17:03,360 - Start app
+2026-03-07 12:17:08,166 - === START MODE: TEST ===
+2026-03-07 12:17:08,167 - Attempt 1
+2026-03-07 12:17:08,231 - turn on screen and swipe up to unlock with PIN
+2026-03-07 12:17:08,395 - Screen is already on
+2026-03-07 12:17:15,634 - App is running, stopping first
+2026-03-07 12:17:15,634 - Stop app
+2026-03-07 12:17:15,912 - Start app
+2026-03-07 12:17:24,616 - Checking overlay popup...
+2026-03-07 12:17:27,014 - No overlay detected
+2026-03-07 12:17:27,014 - TEST mode: clicking Tạo đơn
+2026-03-07 12:17:27,015 - Waiting element: Tạo đơn
+2026-03-07 12:17:29,369 - Element found: Tạo đơn
+2026-03-07 12:17:29,370 - Tapping at (103, 772)
+2026-03-07 12:17:35,461 - Checking overlay popup...
+2026-03-07 12:17:37,844 - No overlay detected
+2026-03-07 12:17:41,059 - Stop app
+2026-03-07 12:17:41,311 - Lock device
+2026-03-07 12:17:42,352 - SUCCESS
+2026-03-09 07:46:29,475 - === START MODE: CHECK_IN ===
+2026-03-09 07:46:29,476 - Attempt 1
+2026-03-09 07:46:34,675 - turn on screen and swipe up to unlock with PIN
+2026-03-09 07:46:34,934 - Turning on screen
+2026-03-09 07:46:45,351 - Start app
+2026-03-09 07:46:54,502 - Checking overlay popup...
+2026-03-09 07:46:56,999 - No overlay detected
+2026-03-09 07:46:57,000 - Waiting element: CHECK IN
+2026-03-09 07:46:59,370 - Element found: CHECK IN
+2026-03-09 07:46:59,371 - Tapping at (359, 421)
+2026-03-09 07:47:05,438 - Checking overlay popup...
+2026-03-09 07:47:07,772 - Overlay found. Closing...
+2026-03-09 07:47:07,772 - Tapping at (677, 118)
+2026-03-09 07:47:19,639 - Stop app
+2026-03-09 07:47:19,902 - Lock device
+2026-03-09 07:47:20,938 - SUCCESS
+2026-03-09 18:14:09,394 - === START MODE: CHECK_OUT ===
+2026-03-09 18:14:09,395 - Attempt 1
+2026-03-09 18:14:09,499 - turn on screen and swipe up to unlock with PIN
+2026-03-09 18:14:09,793 - Turning on screen
+2026-03-09 18:14:20,658 - Start app
+2026-03-09 18:14:29,800 - Checking overlay popup...
+2026-03-09 18:14:32,304 - No overlay detected
+2026-03-09 18:14:32,304 - Waiting element: CHECK OUT
+2026-03-09 18:14:34,602 - Element found: CHECK OUT
+2026-03-09 18:14:34,602 - Tapping at (523, 383)
+2026-03-09 18:14:38,627 - Waiting element: Đồng ý
+2026-03-09 18:14:40,906 - Element found: Đồng ý
+2026-03-09 18:14:40,906 - Tapping at (489, 943)
+2026-03-09 18:14:44,931 - Tapping at (635, 201)
+2026-03-09 18:14:50,960 - Checking overlay popup...
+2026-03-09 18:14:53,380 - No overlay detected
+2026-03-09 18:15:00,788 - Stop app
+2026-03-09 18:15:01,041 - Lock device
+2026-03-09 18:15:02,066 - SUCCESS
+2026-03-10 07:46:21,583 - === START MODE: CHECK_IN ===
+2026-03-10 07:46:21,584 - Attempt 1
+2026-03-10 07:46:21,657 - turn on screen and swipe up to unlock with PIN
+2026-03-10 07:46:21,914 - Turning on screen
+2026-03-10 07:46:32,702 - Start app
+2026-03-10 07:46:41,600 - Checking overlay popup...
+2026-03-10 07:46:44,090 - No overlay detected
+2026-03-10 07:46:44,090 - Waiting element: CHECK IN
+2026-03-10 07:46:46,421 - Element found: CHECK IN
+2026-03-10 07:46:46,422 - Tapping at (359, 421)
+2026-03-10 07:46:52,445 - Checking overlay popup...
+2026-03-10 07:46:54,844 - Overlay found. Closing...
+2026-03-10 07:46:54,844 - Tapping at (677, 118)
+2026-03-10 07:47:06,238 - Stop app
+2026-03-10 07:47:06,499 - Lock device
+2026-03-10 07:47:07,533 - SUCCESS
+2026-03-10 18:20:43,426 - === START MODE: CHECK_OUT ===
+2026-03-10 18:20:43,427 - Attempt 1
+2026-03-10 18:20:43,547 - turn on screen and swipe up to unlock with PIN
+2026-03-10 18:20:43,798 - Turning on screen
+2026-03-10 18:20:54,294 - Start app
+2026-03-10 18:21:03,377 - Checking overlay popup...
+2026-03-10 18:21:05,925 - No overlay detected
+2026-03-10 18:21:05,925 - Waiting element: CHECK OUT
+2026-03-10 18:21:08,258 - Element found: CHECK OUT
+2026-03-10 18:21:08,258 - Tapping at (523, 383)
+2026-03-10 18:21:12,277 - Waiting element: Đồng ý
+2026-03-10 18:21:14,610 - Element found: Đồng ý
+2026-03-10 18:21:14,611 - Tapping at (489, 943)
+2026-03-10 18:21:18,642 - Tapping at (635, 201)
+2026-03-10 18:21:24,684 - Checking overlay popup...
+2026-03-10 18:21:27,084 - No overlay detected
+2026-03-10 18:21:34,697 - Stop app
+2026-03-10 18:21:34,974 - Lock device
+2026-03-10 18:21:36,020 - SUCCESS
+2026-03-11 07:44:53,496 - === START MODE: CHECK_IN ===
+2026-03-11 07:44:53,497 - Attempt 1
+2026-03-11 07:44:53,600 - turn on screen and swipe up to unlock with PIN
+2026-03-11 07:44:53,814 - Turning on screen
+2026-03-11 07:45:04,305 - Start app
+2026-03-11 07:45:13,209 - Checking overlay popup...
+2026-03-11 07:45:15,692 - No overlay detected
+2026-03-11 07:45:15,692 - Waiting element: CHECK IN
+2026-03-11 07:45:17,989 - Element found: CHECK IN
+2026-03-11 07:45:17,989 - Tapping at (359, 421)
+2026-03-11 07:45:24,010 - Checking overlay popup...
+2026-03-11 07:45:26,341 - Overlay found. Closing...
+2026-03-11 07:45:26,341 - Tapping at (677, 118)
+2026-03-11 07:45:38,116 - Stop app
+2026-03-11 07:45:38,368 - Lock device
+2026-03-11 07:45:39,406 - SUCCESS
+2026-03-11 18:33:06,472 - === START MODE: CHECK_OUT ===
+2026-03-11 18:33:06,473 - Attempt 1
+2026-03-11 18:33:06,585 - turn on screen and swipe up to unlock with PIN
+2026-03-11 18:33:06,829 - Turning on screen
+2026-03-11 18:33:17,438 - Start app
+2026-03-11 18:33:26,463 - Checking overlay popup...
+2026-03-11 18:33:28,896 - No overlay detected
+2026-03-11 18:33:28,896 - Waiting element: CHECK OUT
+2026-03-11 18:33:31,198 - Element found: CHECK OUT
+2026-03-11 18:33:31,198 - Tapping at (523, 383)
+2026-03-11 18:33:35,216 - Waiting element: Đồng ý
+2026-03-11 18:33:37,512 - Element found: Đồng ý
+2026-03-11 18:33:37,512 - Tapping at (489, 943)
+2026-03-11 18:33:41,533 - Tapping at (635, 201)
+2026-03-11 18:33:47,565 - Checking overlay popup...
+2026-03-11 18:33:50,011 - No overlay detected
+2026-03-11 18:33:57,947 - Stop app
+2026-03-11 18:33:58,231 - Lock device
+2026-03-11 18:33:59,273 - SUCCESS
+2026-03-12 07:31:57,358 - === START MODE: CHECK_IN ===
+2026-03-12 07:31:57,359 - Attempt 1
+2026-03-12 07:31:57,435 - turn on screen and swipe up to unlock with PIN
+2026-03-12 07:31:57,598 - Turning on screen
+2026-03-12 07:32:07,176 - Start app
+2026-03-12 07:32:16,098 - Checking overlay popup...
+2026-03-12 07:32:18,604 - No overlay detected
+2026-03-12 07:32:18,604 - Waiting element: CHECK IN
+2026-03-12 07:32:20,908 - Element found: CHECK IN
+2026-03-12 07:32:20,908 - Tapping at (359, 421)
+2026-03-12 07:32:26,941 - Checking overlay popup...
+2026-03-12 07:32:29,234 - Overlay found. Closing...
+2026-03-12 07:32:29,235 - Tapping at (677, 118)
+2026-03-12 07:32:40,662 - Stop app
+2026-03-12 07:32:40,925 - Lock device
+2026-03-12 07:32:41,961 - SUCCESS
+2026-03-12 18:32:50,452 - === START MODE: CHECK_OUT ===
+2026-03-12 18:32:50,453 - Attempt 1
+2026-03-12 18:32:50,574 - turn on screen and swipe up to unlock with PIN
+2026-03-12 18:32:50,820 - Turning on screen
+2026-03-12 18:33:01,312 - Start app
+2026-03-12 18:33:10,406 - Checking overlay popup...
+2026-03-12 18:33:13,049 - No overlay detected
+2026-03-12 18:33:13,049 - Waiting element: CHECK OUT
+2026-03-12 18:33:15,341 - Element found: CHECK OUT
+2026-03-12 18:33:15,341 - Tapping at (523, 383)
+2026-03-12 18:33:19,364 - Waiting element: Đồng ý
+2026-03-12 18:33:21,675 - Element found: Đồng ý
+2026-03-12 18:33:21,675 - Tapping at (489, 943)
+2026-03-12 18:33:25,717 - Tapping at (635, 201)
+2026-03-12 18:33:31,761 - Checking overlay popup...
+2026-03-12 18:33:34,147 - No overlay detected
+2026-03-12 18:33:41,977 - Stop app
+2026-03-12 18:33:42,247 - Lock device
+2026-03-12 18:33:43,304 - SUCCESS
+2026-03-13 07:43:04,469 - === START MODE: CHECK_IN ===
+2026-03-13 07:43:04,469 - Attempt 1
+2026-03-13 07:43:04,552 - turn on screen and swipe up to unlock with PIN
+2026-03-13 07:43:04,802 - Turning on screen
+2026-03-13 07:43:15,452 - Start app
+2026-03-13 07:43:24,619 - Checking overlay popup...
+2026-03-13 07:43:27,078 - No overlay detected
+2026-03-13 07:43:27,078 - Waiting element: CHECK IN
+2026-03-13 07:43:29,412 - Element found: CHECK IN
+2026-03-13 07:43:29,413 - Tapping at (359, 421)
+2026-03-13 07:43:35,431 - Checking overlay popup...
+2026-03-13 07:43:37,841 - Overlay found. Closing...
+2026-03-13 07:43:37,841 - Tapping at (677, 118)
+2026-03-13 07:43:48,816 - Stop app
+2026-03-13 07:43:49,083 - Lock device
+2026-03-13 07:43:50,128 - SUCCESS
+2026-03-13 18:32:51,313 - === START MODE: CHECK_OUT ===
+2026-03-13 18:32:51,314 - Attempt 1
+2026-03-13 18:32:51,491 - turn on screen and swipe up to unlock with PIN
+2026-03-13 18:32:51,747 - Turning on screen
+2026-03-13 18:33:02,436 - Start app
+2026-03-13 18:33:11,459 - Checking overlay popup...
+2026-03-13 18:33:13,956 - No overlay detected
+2026-03-13 18:33:13,956 - Waiting element: CHECK OUT
+2026-03-13 18:33:16,326 - Element found: CHECK OUT
+2026-03-13 18:33:16,326 - Tapping at (523, 383)
+2026-03-13 18:33:20,346 - Waiting element: Đồng ý
+2026-03-13 18:33:22,654 - Element found: Đồng ý
+2026-03-13 18:33:22,654 - Tapping at (489, 943)
+2026-03-13 18:33:26,686 - Tapping at (635, 201)
+2026-03-13 18:33:32,719 - Checking overlay popup...
+2026-03-13 18:33:35,151 - No overlay detected
+2026-03-13 18:33:42,340 - Stop app
+2026-03-13 18:33:42,624 - Lock device
+2026-03-13 18:33:43,670 - SUCCESS
+2026-03-16 07:33:56,429 - === START MODE: CHECK_IN ===
+2026-03-16 07:33:56,430 - Attempt 1
+2026-03-16 07:33:56,564 - turn on screen and swipe up to unlock with PIN
+2026-03-16 07:33:56,820 - Turning on screen
+2026-03-16 07:34:07,485 - Start app
+2026-03-16 07:34:16,696 - Checking overlay popup...
+2026-03-16 07:34:19,127 - No overlay detected
+2026-03-16 07:34:19,127 - Waiting element: CHECK IN
+2026-03-16 07:34:21,415 - Element found: CHECK IN
+2026-03-16 07:34:21,415 - Tapping at (359, 421)
+2026-03-16 07:34:27,425 - Checking overlay popup...
+2026-03-16 07:34:29,833 - No overlay detected
+2026-03-16 07:34:34,956 - Stop app
+2026-03-16 07:34:35,166 - Lock device
+2026-03-16 07:34:36,192 - SUCCESS
+2026-03-16 18:08:30,376 - === START MODE: CHECK_OUT ===
+2026-03-16 18:08:30,377 - Attempt 1
+2026-03-16 18:08:35,557 - turn on screen and swipe up to unlock with PIN
+2026-03-16 18:08:35,789 - Turning on screen
+2026-03-16 18:08:46,296 - Start app
+2026-03-16 18:08:55,255 - Checking overlay popup...
+2026-03-16 18:09:03,500 - No overlay detected
+2026-03-16 18:09:03,500 - Waiting element: CHECK OUT
+2026-03-16 18:10:11,425 - === START MODE: CHECK_OUT ===
+2026-03-16 18:10:11,425 - Attempt 1
+2026-03-16 18:10:11,493 - turn on screen and swipe up to unlock with PIN
+2026-03-16 18:10:11,664 - Turning on screen
+2026-03-16 18:10:21,218 - Start app
+2026-03-16 18:10:29,932 - Checking overlay popup...
+2026-03-16 18:10:37,855 - No overlay detected
+2026-03-16 18:10:37,855 - Waiting element: CHECK OUT
+2026-03-16 18:11:08,343 - Element timeout: CHECK OUT
+2026-03-16 18:11:08,343 - FAILED attempt
+2026-03-16 18:11:08,343 - Stop app
+2026-03-16 18:11:11,403 - Attempt 2
+2026-03-16 18:11:11,459 - ADB not connected. Reconnecting...
+2026-03-16 18:11:11,460 - Reconnecting ADB...
+2026-03-16 18:11:18,717 - ADB reconnect failed.
+2026-03-16 18:11:18,718 - FAILED attempt
+2026-03-16 18:11:18,718 - Stop app
+2026-03-16 18:11:21,778 - Attempt 3
+2026-03-16 18:11:21,834 - ADB not connected. Reconnecting...
+2026-03-16 18:11:21,834 - Reconnecting ADB...
+2026-03-16 18:11:29,086 - ADB reconnect failed.
+2026-03-16 18:11:29,087 - FAILED attempt
+2026-03-16 18:11:29,087 - Stop app
+2026-03-16 18:11:32,146 - ALL RETRIES FAILED
+2026-03-16 18:11:33,259 - === END ===
+2026-03-17 07:47:19,220 - === START MODE: CHECK_IN ===
+2026-03-17 07:47:19,221 - Attempt 1
+2026-03-17 07:47:19,288 - turn on screen and swipe up to unlock with PIN
+2026-03-17 07:47:19,543 - Turning on screen
+2026-03-17 07:47:30,205 - App is running, stopping first
+2026-03-17 07:47:30,206 - Stop app
+2026-03-17 07:47:30,764 - Start app
+2026-03-17 07:47:39,786 - Checking overlay popup...
+2026-03-17 07:47:42,286 - No overlay detected
+2026-03-17 07:47:42,286 - Waiting element: CHECK IN
+2026-03-17 07:47:44,664 - Element found: CHECK IN
+2026-03-17 07:47:44,664 - Tapping at (359, 421)
+2026-03-17 07:47:50,708 - Checking overlay popup...
+2026-03-17 07:47:53,099 - No overlay detected
+2026-03-17 07:48:01,183 - Stop app
+2026-03-17 07:48:01,427 - Lock device
+2026-03-17 07:48:02,457 - SUCCESS
+2026-03-17 16:26:31,364 - === START MODE: TEST ===
+2026-03-17 16:26:31,365 - Attempt 1
+2026-03-17 16:26:31,467 - turn on screen and swipe up to unlock with PIN
+2026-03-17 16:26:31,737 - Turning on screen
+2026-03-17 16:26:42,459 - Device is connected to internet
+2026-03-17 16:26:42,680 - Start app
+2026-03-17 16:28:20,228 - === START MODE: TEST ===
+2026-03-17 16:28:20,229 - Attempt 1
+2026-03-17 16:28:20,295 - turn on screen and swipe up to unlock with PIN
+2026-03-17 16:28:20,514 - Screen is already on
+2026-03-17 16:28:38,045 - WiFi toggled off and on
+2026-03-17 16:28:38,249 - App is running, stopping first
+2026-03-17 16:28:38,250 - Stop app
+2026-03-17 16:28:38,543 - Start app
+2026-03-17 16:28:47,301 - Checking overlay popup...
+2026-03-17 16:28:49,788 - No overlay detected
+2026-03-17 16:28:49,788 - TEST mode: clicking Tạo đơn
+2026-03-17 16:28:49,788 - Waiting element: Tạo đơn
+2026-03-17 16:29:25,681 - === START MODE: TEST ===
+2026-03-17 16:29:25,682 - Attempt 1
+2026-03-17 16:29:25,754 - turn on screen and swipe up to unlock with PIN
+2026-03-17 16:29:25,962 - Screen is already on
+2026-03-17 16:29:33,311 - WiFi disabled
+2026-03-17 16:29:38,498 - WiFi enabled
+2026-03-17 16:29:43,499 - WiFi toggled off and on
+2026-03-17 16:29:43,655 - App is running, stopping first
+2026-03-17 16:29:43,655 - Stop app
+2026-03-17 16:29:43,924 - Start app
+2026-03-17 16:29:52,806 - === START MODE: TEST ===
+2026-03-17 16:29:52,807 - Attempt 1
+2026-03-17 16:29:52,878 - turn on screen and swipe up to unlock with PIN
+2026-03-17 16:29:53,051 - Screen is already on
+2026-03-17 16:30:00,320 - WiFi disabled
+2026-03-17 16:30:05,507 - WiFi enabled
+2026-03-17 16:30:10,508 - WiFi toggled off and on
+2026-03-17 16:30:10,657 - App is running, stopping first
+2026-03-17 16:30:10,658 - Stop app
+2026-03-17 16:30:10,887 - Start app
+2026-03-17 16:30:19,612 - Checking overlay popup...
+2026-03-17 16:30:22,037 - No overlay detected
+2026-03-17 16:30:22,038 - TEST mode: clicking Tạo đơn
+2026-03-17 16:30:22,038 - Waiting element: Tạo đơn
+2026-03-17 16:30:24,462 - Element found: Tạo đơn
+2026-03-17 16:30:24,463 - Tapping at (103, 699)
+2026-03-17 16:30:30,579 - Checking overlay popup...
+2026-03-17 16:30:32,928 - No overlay detected
+2026-03-17 16:30:36,249 - Stop app
+2026-03-17 16:30:36,496 - Lock device
+2026-03-17 16:30:37,529 - SUCCESS
+2026-03-17 16:31:21,053 - === START MODE: TEST ===
+2026-03-17 16:31:21,053 - Attempt 1
+2026-03-17 16:31:21,123 - turn on screen and swipe up to unlock with PIN
+2026-03-17 16:31:21,296 - Turning on screen
+2026-03-17 16:31:30,908 - Device is connected to internet
+2026-03-17 16:31:31,073 - Start app
+2026-03-17 16:31:39,820 - Checking overlay popup...
+2026-03-17 16:31:42,268 - No overlay detected
+2026-03-17 16:31:42,268 - TEST mode: clicking Tạo đơn
+2026-03-17 16:31:42,269 - Waiting element: Tạo đơn
+2026-03-17 16:31:44,681 - Element found: Tạo đơn
+2026-03-17 16:31:44,681 - Tapping at (103, 699)
+2026-03-17 16:31:50,764 - Checking overlay popup...
+2026-03-17 16:32:06,349 - === START MODE: TEST ===
+2026-03-17 16:32:06,349 - Attempt 1
+2026-03-17 16:32:06,416 - turn on screen and swipe up to unlock with PIN
+2026-03-17 16:32:06,602 - Screen is already on
+2026-03-17 16:32:13,848 - Device is NOT connected to internet, toggling WiFi
+2026-03-17 16:32:14,008 - WiFi disabled
+2026-03-17 16:32:19,173 - WiFi enabled
+2026-03-17 16:32:24,174 - WiFi toggled off and on
+2026-03-17 16:32:24,529 - App is running, stopping first
+2026-03-17 16:32:24,530 - Stop app
+2026-03-17 16:32:24,766 - Start app
+2026-03-17 16:32:33,487 - Checking overlay popup...
+2026-03-17 16:32:35,871 - No overlay detected
+2026-03-17 16:32:35,871 - TEST mode: clicking Tạo đơn
+2026-03-17 16:32:35,872 - Waiting element: Tạo đơn
+2026-03-17 16:32:38,282 - Element found: Tạo đơn
+2026-03-17 16:32:38,283 - Tapping at (103, 699)
+2026-03-17 16:32:44,361 - Checking overlay popup...
+2026-03-17 16:32:46,744 - No overlay detected
+2026-03-17 16:32:50,083 - Stop app
+2026-03-17 16:32:50,337 - Lock device
+2026-03-17 16:32:51,404 - SUCCESS

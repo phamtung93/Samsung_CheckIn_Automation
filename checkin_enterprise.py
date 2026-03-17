@@ -21,7 +21,7 @@ CHECK_IN_TEXT = "CHECK IN"
 CHECK_OUT_TEXT = "CHECK OUT"
 
 # button check out confirm text
-CHECK_OUT_CONFIRM_TEXT = "Xác Nhận"
+CHECK_OUT_CONFIRM_TEXT = "Đồng ý"
 
 # menu text to open check in page
 TEST_MENU_TEXT = "Tạo đơn"
@@ -56,11 +56,6 @@ def log(msg):
     print(msg)
     logger.info(msg)
 
-
-# def run_cmd(cmd):
-#     result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
-#     return result.stdout.strip()
-
 def run_cmd(cmd):
     try:
         result = subprocess.run(
@@ -81,8 +76,12 @@ def run_cmd(cmd):
 
 # ================= NETWORK =================
 
-def check_network():
+def check_Samsung_network():
+    
     log("Checking network...")
+    
+    
+    
     result = subprocess.run("ping 8.8.8.8 -n 1", shell=True)
     return result.returncode == 0
 
@@ -131,19 +130,29 @@ def swipe_up():
     run_cmd(ADB + " shell input swipe 500 1600 500 300 750")
 
 def check_is_sceren_on():
-    output = run_cmd(ADB + " shell dumpsys power | grep 'Display Power' | grep 'state='")
+    output = run_cmd(ADB + " shell dumpsys power | findstr \"Display Power\" | findstr \"state=\"")
     return "ON" in output
 
+
 def check_is_screen_off():
-    output = run_cmd(ADB + " shell dumpsys power | grep 'Display Power' | grep 'state='")
-    return "OFF" in output    
+    output = run_cmd(ADB + " shell dumpsys power | findstr \"Display Power\" | findstr \"state=\"")
+    return "OFF" in output
 
 ################ WIFI  #################
-WIFI_SSID = "FPT TELECOM"
-WIFI_PASSWORD = "19006600"
-WIFI_TIMEOUT = 30
 
+def samsung_is_connected_to_internet():
+    output = run_cmd(ADB + " shell ping -c 1 8.8.8.8")
+    return "1 packets transmitted, 1 received" in output
 
+def samsung_disable_and_reenable_wifi():
+    output = run_cmd(ADB + " shell svc wifi disable")
+    log("WiFi disabled")
+    time.sleep(5)
+    output = run_cmd(ADB + " shell svc wifi enable")
+    log("WiFi enabled")
+    time.sleep(5)
+    log("WiFi toggled off and on")    
+    
 ################ SCREEN CONTROL ################
     
 def turnon_screen():
@@ -299,10 +308,22 @@ def screenshot():
 # ================= MAIN =================
 
 def main_flow(mode):
+    # Ensure ADB connection
     if not ensure_adb():
         return False
 
+    # unlock device
     unlock_with_pin(PIN_CODE)
+    
+    # Check network and toggle WiFi if not connected
+    if samsung_is_connected_to_internet(): 
+        log("Device is connected to internet")
+    else:
+        log("Device is NOT connected to internet, toggling WiFi")
+        samsung_disable_and_reenable_wifi()
+        if not samsung_is_connected_to_internet():
+            log("Failed to connect to internet after toggling WiFi")
+            return False
 
     start_app()
 
@@ -324,6 +345,10 @@ def main_flow(mode):
         if not wait_and_click(CHECK_OUT_CONFIRM_TEXT, timeout=15):
             log("Confirm popup not found")
             return False
+        
+        time.sleep(3)
+        
+        tap(635 , 201) # click icon close button popup
 
     elif mode == "TEST":
 
@@ -337,11 +362,10 @@ def main_flow(mode):
         log("Invalid mode")
         return False
 
-    time.sleep(5)
-    
-    close_overlay_if_any()
-    
-    time.sleep(1)
+    time.sleep(5)   
+        
+    if close_overlay_if_any():
+        time.sleep(1)
     
     screenshot()
     send_telegram_photo()
@@ -353,6 +377,8 @@ def main_flow(mode):
 
 
 def main():
+    print("working directory: " + os.getcwd())  # debug
+    
     if len(sys.argv) < 2:
         print("Usage: python3 checkin_enterprise.py CHECK_IN|CHECK_OUT|TEST")
         return
@@ -376,7 +402,16 @@ def main():
     send_telegram_message("Automation FAILED mode: " + mode)
 
     log("=== END ===")
-
+    
+    print("Script finished")  # debug
+    sys.stdout.flush()
+    os._exit(0)  # force exit
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    finally:
+        import logging
+        logging.shutdown()
+        import os
+        os._exit(0)
