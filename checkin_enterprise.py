@@ -37,6 +37,8 @@ TELEGRAM_CHAT = "-4868727178"
 
 PIN_CODE = "0000"  # Ganti dengan PIN yang sesuai
 
+APP_READY_TIMEOUT = 60
+
 # ===== LOG ROTATE =====
 logger = logging.getLogger("automation")
 logger.setLevel(logging.INFO)
